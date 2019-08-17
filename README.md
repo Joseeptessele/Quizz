@@ -12,4 +12,4 @@ An IOs application to play a Quiz.
 # Demonstration
 
 
-![ezgif com-resize](https://user-images.githubusercontent.com/37282140/63212082-f1defa80-c0d5-11e9-9b4c-b6f0e576ae38.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/37282140/63212147-7d588b80-c0d6-11e9-850e-980b3de61004.gif)
